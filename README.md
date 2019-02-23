@@ -1,8 +1,8 @@
 # mapboxgljs-starter
 
-![README02](./img/README02.png)
+![README02](img/README02.png)
 
-![README05](./img/README05.png)
+![README05](img/README05.png)
 
 Start MapboxGLJS easily.  
 - [MapboxGLJS v0.50.0](https://www.mapbox.com/mapbox-gl-js/api/) 
@@ -14,7 +14,7 @@ Start MapboxGLJS easily.
 
 ## Usage
 
-![README04](./img/README04.png)
+![README04](img/README04.png)
 
 <br>
 
@@ -51,14 +51,14 @@ npm run dev
 <br>
 <br>
 
-![README01](./img/README01.gif)
+![README01](img/README01.gif)
 
 <br>
 
 ## License
 MIT
 
-Copyright (c) 2018 Yasunori Kirimoto
+Copyright (c) 2019 Yasunori Kirimoto
 
 <br>
 
@@ -72,9 +72,9 @@ Copyright (c) 2018 Yasunori Kirimoto
 
 # MapboxGLJS スターター
 
-![README02](./img/README02.png)
+![README02](img/README02.png)
 
-![README05](./img/README05.png)
+![README05](img/README05.png)
 
 MapboxGLJSを手軽に始める
 - [MapboxGLJS v0.50.0](https://www.mapbox.com/mapbox-gl-js/api/) 
@@ -86,7 +86,7 @@ MapboxGLJSを手軽に始める
 
 ##  使用方法
 
-![README04](./img/README04.png)
+![README04](img/README04.png)
 
 <br>
 
@@ -120,13 +120,13 @@ npm run dev
 <br>
 <br>
 
-![README01](./img/README01.gif)
+![README01](img/README01.gif)
 
 <br>
 
 ## ライセンス
 MIT
 
-Copyright (c) 2018 Yasunori Kirimoto
+Copyright (c) 2019 Yasunori Kirimoto
 
 <br>
