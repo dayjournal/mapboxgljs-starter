@@ -5,7 +5,7 @@
 ![README05](img/README05.png)
 
 Start MapboxGLJS easily.  
-- [MapboxGLJS v1.8.1](https://www.mapbox.com/mapbox-gl-js/api) 
+- [MapboxGLJS v1.11.0](https://www.mapbox.com/mapbox-gl-js/api) 
 - [webpack v4.41.4](https://webpack.js.org)  
 - node v13.1.0
 - npm v6.13.0
@@ -77,7 +77,7 @@ Copyright (c) 2020 Yasunori Kirimoto
 ![README05](img/README05.png)
 
 MapboxGLJSを手軽に始める
-- [MapboxGLJS v1.8.1](https://www.mapbox.com/mapbox-gl-js/api) 
+- [MapboxGLJS v1.11.0](https://www.mapbox.com/mapbox-gl-js/api) 
 - [webpack v4.41.4](https://webpack.js.org)  
 - node v13.1.0
 - npm v6.13.0
