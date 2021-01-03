@@ -1,6 +1,6 @@
 
 // MIERUNE MONO読み込み
-var map = new mapboxgl.Map({
+const map = new mapboxgl.Map({
     container: "map",
     style: {
         "version": 8,

@@ -1,14 +1,14 @@
-# mapboxgljs-starter
+# mapboxgljs-v1-starter
 
 ![README02](img/README02.png)
 
 ![README05](img/README05.png)
 
 Start MapboxGLJS easily.  
-- [MapboxGLJS v1.11.0](https://www.mapbox.com/mapbox-gl-js/api) 
-- [webpack v4.41.4](https://webpack.js.org)  
-- node v13.1.0
-- npm v6.13.0
+- [MapboxGLJS v1.13.0](https://www.mapbox.com/mapbox-gl-js/api) 
+- [webpack v5.11.1](https://webpack.js.org)  
+- node v15.5.0
+- npm v7.3.0
 
 <br>
 
@@ -19,31 +19,22 @@ Start MapboxGLJS easily.
 <br>
 
 Install package
-
-```
-
+```bash
 npm install
-
 ```
 
 <br>
 
 build
-
-```
-
+```bash
 npm run build
-
 ```
 
 <br>
 
 dev
-
-```
-
+```bash
 npm run dev
-
 ```
 
 ---
@@ -58,7 +49,7 @@ npm run dev
 ## License
 MIT
 
-Copyright (c) 2020 Yasunori Kirimoto
+Copyright (c) 2018-2021 Yasunori Kirimoto
 
 <br>
 
@@ -70,17 +61,17 @@ Copyright (c) 2020 Yasunori Kirimoto
 
 <br>
 
-# MapboxGLJS スターター
+# MapboxGLJS v1 スターター
 
 ![README02](img/README02.png)
 
 ![README05](img/README05.png)
 
 MapboxGLJSを手軽に始める
-- [MapboxGLJS v1.11.0](https://www.mapbox.com/mapbox-gl-js/api) 
-- [webpack v4.41.4](https://webpack.js.org)  
-- node v13.1.0
-- npm v6.13.0
+- [MapboxGLJS v1.13.0](https://www.mapbox.com/mapbox-gl-js/api) 
+- [webpack v5.11.1](https://webpack.js.org)  
+- node v15.5.0
+- npm v7.3.0
 
 <br>
 
@@ -92,29 +83,24 @@ MapboxGLJSを手軽に始める
 
 パッケージインストール
 
-```
-
+```bash
 npm install
-
 ```
 
 <br>
 
 ビルド
 
-```
-
+```bash
 npm run build
-
 ```
 
 <br>
 
 開発
 
-```
+```bash
 npm run dev
-
 ```
 
 <br>
@@ -127,6 +113,6 @@ npm run dev
 ## ライセンス
 MIT
 
-Copyright (c) 2020 Yasunori Kirimoto
+Copyright (c) 2018-2021 Yasunori Kirimoto
 
 <br>
