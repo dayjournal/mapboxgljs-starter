@@ -1,25 +1,21 @@
 {
-    "name": "mapboxgljs-v1-starter",
-    "version": "1.13.0",
-    "description": "",
-    "main": "main.js",
-    "scripts": {
-        "build": "webpack --mode=production",
-        "dev": "webpack serve --mode=development"
-    },
-    "keywords": [],
-    "author": "Yasunori Kirimoto",
-    "license": "ISC",
-    "devDependencies": {
-        "webpack": "^5.38.1",
-        "webpack-cli": "^4.7.0",
-        "webpack-dev-server": "^3.11.2"
-    },
-    "dependencies": {
-        "css-loader": "^5.2.6",
-        "file-loader": "^6.2.0",
-        "mapbox-gl": "1.13.0",
-        "style-loader": "^2.0.0",
-        "url-loader": "^4.1.1"
-    }
+  "name": "mapboxgljs-starter",
+  "version": "2.9.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "Yasunori Kirimoto",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "@types/mapbox-gl": "^2.7.3",
+    "mapbox-gl": "2.9.0"
+  }
 }
