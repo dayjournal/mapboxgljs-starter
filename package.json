@@ -1,6 +1,6 @@
 {
   "name": "mapboxgljs-starter",
-  "version": "2.15.0",
+  "version": "3.17.0",
   "description": "",
   "scripts": {
     "dev": "vite",
@@ -9,13 +9,13 @@
   },
   "keywords": [],
   "author": "Yasunori Kirimoto",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
-    "typescript": "^5.1.6",
-    "vite": "^5.4.21"
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
   },
   "dependencies": {
-    "@types/mapbox-gl": "^2.7.11",
-    "mapbox-gl": "2.15.0"
+    "@types/mapbox-gl": "^3.4.1",
+    "mapbox-gl": "3.17.0"
   }
 }
